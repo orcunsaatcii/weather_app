@@ -1,16 +1,14 @@
-# weather_app
+WEATHER APPLICATION
 
-A new Flutter project.
+What did i use for this project ?
+******************************************
+State Management (Riverpod)
+MVVM Architecture
+location package
+Rest API (openweatheramap  API)
+Http Requests with Dio
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+https://github.com/user-attachments/assets/d59de8dd-571b-4a61-9fe7-7545de841d60
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
